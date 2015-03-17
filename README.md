@@ -8,7 +8,7 @@ Getting started
 ---------------
 
 I recommend that you setup your current user to manipulate docker without sudo.
-See [this](http://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo) to learn how.
+Check [this](http://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo) out to learn how.
 
 1. Build the new image (from the same directory of this Dockerfile):
 ```
