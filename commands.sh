@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 DKR_IMAGE=djlebersilvestre/postgres:9.4.1
 DKR_PG_CONTAINER=postgres
 PG_PASS=testing
