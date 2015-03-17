@@ -1,5 +1,5 @@
 # docker-postgres
-============
+=================
 
 Base Dockerfile for PostgreSQL database. Built upon official PostgreSQL image.
 Recommended for initial setup of databases for development environment.
